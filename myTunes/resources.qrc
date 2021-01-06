@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/64X64buttons">
+        <file>forward.png</file>
+        <file>pause.png</file>
+        <file>play.png</file>
+        <file>previous.png</file>
+        <file>rewind.png</file>
+        <file>skip.png</file>
+        <file>stop.png</file>
+        <file>mute.png</file>
+        <file>volume.png</file>
+        <file>random.png</file>
+        <file>loop.png</file>
+    </qresource>
+</RCC>

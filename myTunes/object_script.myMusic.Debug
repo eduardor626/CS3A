@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\musicengine.o
+./debug\getmp3.o
+./debug\initilizewindow.o
+./debug\songinfo.o
+./debug\playlisthandler.o
+./debug\qrc_resources.o
+./debug\moc_mainwindow.o
+./debug\moc_musicengine.o
+);
